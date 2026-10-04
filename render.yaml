@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: theonepercent-flask
+    name: theonepercent
     runtime: python
     plan: free
     buildCommand: pip install -r requirements.txt
